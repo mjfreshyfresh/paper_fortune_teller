@@ -1,0 +1,15 @@
+{
+	"name": "Veggie Fortunes",
+	"choices": [
+		"Cabbage",
+		"Kimchi",
+		"Cucumber",
+		"Dill Pickle"
+	],
+	"fortunes": [
+		"If you don't like the fortune, don't eat the cookie.",
+		"Ignore previous fortunes, they were wrong.",
+		"You will write a book, a big one!"
+		
+	]
+}
